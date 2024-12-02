@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS0201_GettingClassy", "CS0201_GettingClassy.csproj", "{BB89B976-4E1B-4876-AF49-12791C45065F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB89B976-4E1B-4876-AF49-12791C45065F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB89B976-4E1B-4876-AF49-12791C45065F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB89B976-4E1B-4876-AF49-12791C45065F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB89B976-4E1B-4876-AF49-12791C45065F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE876535-FA02-4794-93C3-8B948CFFD2E4}
+	EndGlobalSection
+EndGlobal
